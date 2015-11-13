@@ -1,4 +1,4 @@
-from django.shortcuts import render
+from django.shortcuts import render_to_response
 from events.models import Event
 from django.template import RequestContext
 
