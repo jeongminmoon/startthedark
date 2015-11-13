@@ -1,4 +1,4 @@
-"""
+﻿"""
 Django settings for startthedark project.
 
 For more information on this file, see
@@ -44,6 +44,7 @@ TEMPLATES = [
          }, 
      }, 
  ] 
+
 
 INSTALLED_APPS = (
     'django.contrib.admin',

@@ -30,6 +30,10 @@ ADMINS = (
  	('jeongmin', 'answjdals15@gmail.com'), 
  ) 
 
+TEMPLATE_DIR={
+	'templates',
+}
+
 
 INSTALLED_APPS = (
     'django.contrib.admin',
